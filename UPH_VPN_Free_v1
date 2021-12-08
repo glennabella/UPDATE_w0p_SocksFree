@@ -3,6 +3,6 @@
   "ProxyPort" : "3128",
   "SslPort" : "443",
   "SshPort" : "2500",
-  "Version" : "4.29",
-  "Update" : "[v4.29]\uD83D\uDC49(NewSetup1) \"RESTART\" \uD83D\uDC47"
+  "Version" : "4.30",
+  "Update" : "[v4.30]\uD83D\uDC49(NewSetup) \"RESTART\" \uD83D\uDC47"
 }
